@@ -1,0 +1,19 @@
+https://closure-compiler.appspot.com
+
+// ==ClosureCompiler==
+
+// @output_file_name combined1.js
+// @compilation_level SIMPLE_OPTIMIZATIONS
+// @code_url http://luketeachestech.com/wp-includes/js/wp-a11y.min.js
+// @code_url http://luketeachestech.com/wp-content/themes/salient/nectar/assets/functions/ajax-search/wpss-search-suggest.js
+// @code_url http://luketeachestech.com/wp-content/plugins/speed-booster-pack/js/sbp-lazy-load.min.js
+// @code_url http://s0.wp.com/wp-content/js/devicepx-jetpack.js
+// @code_url http://luketeachestech.com/wp-content/themes/salient/js/infinitescroll.js
+// @code_url http://luketeachestech.com/wp-includes/js/wp-emoji-release.min.js
+// @code_url http://luketeachestech.com/wp-content/plugins/js_composer_salient/assets/lib/bower/progress-circle/ProgressCircle.min.js
+// @code_url http://luketeachestech.com/wp-content/plugins/js_composer_salient/assets/lib/vc_chart/jquery.vc_chart.min.js
+// @code_url http://luketeachestech.com/wp-content/plugins/js_composer_salient/assets/js/dist/js_composer_front.min.js
+// ==/ClosureCompiler==
+
+
+

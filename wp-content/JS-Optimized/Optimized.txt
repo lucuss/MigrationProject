@@ -1,0 +1,2 @@
+Optimized theme and pluging javascript using Google Closure
+closure-compiler.appspot.com
